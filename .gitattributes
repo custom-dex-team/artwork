@@ -1,0 +1,10 @@
+# Global attributes for forcing line endings normalization of specific files
+
+* text=auto
+
+# Assets
+*.ico binary
+*.png binary
+*.jpg binary
+*.psd binary
+*.ai  binary
